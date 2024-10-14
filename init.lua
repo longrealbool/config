@@ -1,4 +1,4 @@
-package.path = package.path .. ";/home/kisik/.config/nvim/?.lua"
+package.path = package.path .. ";/user/esukhov/.config/nvim/?.lua"
 require("user.plugins");
 require("user.keys");
 require("user.color");
